@@ -1,0 +1,19 @@
+
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  
+  
+  .p,a {
+    margin: 4px;
+    font-size: 90%;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
